@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title id="title">Pilot Mountain Landing Page</title>
+    <link href="./styles.css" rel="stylesheet">
+  </head> 
+  <body>
+    <main>
+        <h1> Welcome to a beautiful Mountain</h1>
+            <p a href="https://ghosty-production.s3.amazonaws.com/fotospot_spots/Pilot-Mountain-Fotospot_5c75b57c8d200cea135e2aab6b258eda/large.jpg">>Pilot Mountain is a stunning natural landmark located in North Carolina.</a></p>
+            <section>
+              <article>
+            <h2> History </h2>
+              <p>Lorem Ipum</p>
+              </article>
+            </section>
+            <section> 
+              <article>
+              <h2>Popular trails</h2>
+                <p>Lorem Ipum</p>
+              </article>  
+            </section> 
+            <div>
+            <h2> Most popular time to go </h2> 
+              <ul>
+              <li>Winter
+                  <p> Temperature ranges from f to f </p> </li> 
+              <li>Spring</li>
+                <p> Many floral begins to bloom around this time of year<p> 
+              <li>Summer</li>
+              <li>Autumn</li>
+              </ul> 
+            </div> 
+
+    </main>
+  </body>
+  </html>
